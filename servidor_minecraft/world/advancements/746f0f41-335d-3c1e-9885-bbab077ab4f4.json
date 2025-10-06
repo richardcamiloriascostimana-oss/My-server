@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
     "criteria": {
       "has_stick": "2025-10-06 20:09:00 +0000"
@@ -162,9 +168,21 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-10-06 20:36:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-10-06 20:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -240,6 +258,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "slashblade:material/proudsoul_tiny": {
     "criteria": {
       "BrokenBlade": "2025-10-06 20:10:02 +0000"
@@ -312,6 +336,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
@@ -327,6 +357,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-10-06 20:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-10-06 20:34:54 +0000"
     },
     "done": true
   },
@@ -378,6 +414,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-10-06 20:26:51 +0000"
@@ -393,6 +441,12 @@
   "mcwwindows:recipes/blinds": {
     "criteria": {
       "has_wood": "2025-10-06 20:10:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -540,6 +594,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-10-06 20:08:30 +0000"
@@ -612,6 +678,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
@@ -624,9 +696,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-10-06 20:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -732,6 +822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
@@ -759,6 +855,12 @@
   "fairylights:recipes/fairylights/garland": {
     "criteria": {
       "has_iron": "2025-10-06 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -841,6 +943,12 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-10-06 20:10:51 +0000"
@@ -907,9 +1015,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_planks": "2025-10-06 20:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-10-06 20:34:42 +0000"
     },
     "done": true
   },
@@ -997,6 +1117,12 @@
     },
     "done": true
   },
+  "intensehorror:the_horror_has_arrived": {
+    "criteria": {
+      "the_horror_has_arrived": "2025-10-06 20:35:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-10-06 20:12:05 +0000"
@@ -1042,6 +1168,12 @@
   "bakery:recipes/faucet": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -1142,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-10-06 20:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-10-06 20:09:00 +0000"
@@ -1169,6 +1307,12 @@
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2025-10-06 20:10:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -1220,6 +1364,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/fairy_light": {
     "criteria": {
       "has_iron": "2025-10-06 20:26:51 +0000"
@@ -1244,9 +1394,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2025-10-06 20:10:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
     },
     "done": true
   },
@@ -1283,6 +1451,12 @@
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_the_recipe": "2025-10-06 20:09:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -1325,6 +1499,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-10-06 20:34:35 +0000"
     },
     "done": true
   },
@@ -1385,6 +1565,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-10-06 20:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-10-06 20:34:54 +0000"
     },
     "done": true
   },
@@ -1484,6 +1670,18 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/wall_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-10-06 20:10:51 +0000"
@@ -1520,6 +1718,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_the_recipe": "2025-10-06 20:09:35 +0000"
@@ -1529,6 +1733,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-10-06 20:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -1820,6 +2030,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
@@ -1892,6 +2108,12 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
@@ -1919,6 +2141,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_basin": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
     },
     "done": true
   },
@@ -2024,6 +2252,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/letter_bunting": {
     "criteria": {
       "has_iron": "2025-10-06 20:26:51 +0000"
@@ -2069,6 +2303,12 @@
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-10-06 20:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
     },
     "done": true
   },
@@ -2192,6 +2432,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "beautify:blinds": {
     "criteria": {
       "requirement": "2025-10-06 20:09:00 +0000"
@@ -2201,6 +2447,12 @@
   "fairylights:recipes/fairylights/heart_light": {
     "criteria": {
       "has_iron": "2025-10-06 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -2342,6 +2594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-10-06 20:34:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
@@ -2444,6 +2702,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2025-10-06 20:10:51 +0000"
@@ -2522,9 +2786,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2025-10-06 20:41:26 +0000"
     },
     "done": true
   },
@@ -2654,6 +2930,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-10-06 20:33:13 +0000"
@@ -2663,6 +2945,12 @@
   "bakery:recipes/deepslate_stove": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -2726,6 +3014,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/brick_stove": {
     "criteria": {
       "has_iron_ingot": "2025-10-06 20:26:51 +0000"
@@ -2744,9 +3038,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-10-06 20:09:00 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:survived_the_nightmare": {
+    "criteria": {
+      "survived_the_nightmare": "2025-10-06 20:35:26 +0000"
     },
     "done": true
   },
@@ -2882,6 +3188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candelabra_candles": {
     "criteria": {
       "has_iron": "2025-10-06 20:26:51 +0000"
@@ -2891,6 +3203,18 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-10-06 20:10:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-10-06 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-10-06 20:42:03 +0000"
     },
     "done": true
   },
@@ -2924,6 +3248,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-06 20:34:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_planks": "2025-10-06 20:10:51 +0000"
@@ -2951,6 +3293,12 @@
   "mcwwindows:recipes/acacia": {
     "criteria": {
       "has_the_recipe": "2025-10-06 20:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
     },
     "done": true
   },
@@ -3074,6 +3422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-06 20:42:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-10-06 20:09:00 +0000"
@@ -3182,6 +3536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-10-06 20:09:00 +0000"
@@ -3269,6 +3629,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-10-06 20:08:30 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_string": "2025-10-06 20:36:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-10-06 20:37:15 +0000"
     },
     "done": true
   },
