@@ -4564,6 +4564,12 @@
     },
     "done": true
   },
+  "vampiresdelight:main/consume_disgusting_food": {
+    "criteria": {
+      "disgusting_food": "2025-10-06 23:47:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-10-06 23:14:49 +0000"
