@@ -3919,6 +3919,18 @@
     },
     "done": true
   },
+  "bakery:recipes/bread_crate": {
+    "criteria": {
+      "has_tray": "2025-10-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/bread_basket": {
+    "criteria": {
+      "has_tray": "2025-10-06 21:54:31 +0000"
+    },
+    "done": true
+  },
   "bakery:main/get_everything": {
     "criteria": {
       "bakery:glowberry_tart": "2025-10-06 21:54:38 +0000",
@@ -3936,6 +3948,12 @@
     },
     "done": false
   },
+  "bakery:main/get_all_caked_goods": {
+    "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-10-06 21:55:27 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-10-06 21:58:53 +0000"
@@ -3948,27 +3966,33 @@
     },
     "done": true
   },
-  "bakery:recipes/bread_crate": {
-    "criteria": {
-      "has_tray": "2025-10-06 21:54:31 +0000"
-    },
-    "done": true
-  },
   "intensehorror:sweet_victory": {
     "criteria": {
       "sweet_victory": "2025-10-06 21:59:07 +0000"
     },
     "done": true
   },
-  "bakery:main/get_all_caked_goods": {
+  "intensehorror:demon_slayer": {
     "criteria": {
-      "bakery:chocolate_glazed_cookie": "2025-10-06 21:55:27 +0000"
+      "demon_slayer": "2025-10-06 22:06:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "bakery:recipes/bread_basket": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_tray": "2025-10-06 21:54:31 +0000"
+      "has_paper": "2025-10-06 22:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-10-06 22:10:18 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:golden_treat": {
+    "criteria": {
+      "golden_treat": "2025-10-06 22:11:04 +0000"
     },
     "done": true
   },
