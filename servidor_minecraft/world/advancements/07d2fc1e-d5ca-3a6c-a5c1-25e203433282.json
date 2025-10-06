@@ -3698,6 +3698,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-10-06 21:42:12 +0000",
+      "minecraft:spider": "2025-10-06 21:58:44 +0000",
       "minecraft:zombie": "2025-10-06 21:28:52 +0000"
     },
     "done": false
@@ -3915,6 +3916,59 @@
   "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2025-10-06 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_everything": {
+    "criteria": {
+      "bakery:glowberry_tart": "2025-10-06 21:54:38 +0000",
+      "bakery:chocolate_glazed_cookie": "2025-10-06 21:55:27 +0000",
+      "bakery:baguette": "2025-10-06 21:57:02 +0000",
+      "bakery:chocolate_tart": "2025-10-06 21:54:58 +0000"
+    },
+    "done": false
+  },
+  "bakery:main/get_all_baked_goods": {
+    "criteria": {
+      "bakery:glowberry_tart": "2025-10-06 21:54:38 +0000",
+      "bakery:baguette": "2025-10-06 21:57:02 +0000",
+      "bakery:chocolate_tart": "2025-10-06 21:54:58 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-10-06 21:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-10-06 21:58:53 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/bread_crate": {
+    "criteria": {
+      "has_tray": "2025-10-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:sweet_victory": {
+    "criteria": {
+      "sweet_victory": "2025-10-06 21:59:07 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_all_caked_goods": {
+    "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-10-06 21:55:27 +0000"
+    },
+    "done": false
+  },
+  "bakery:recipes/bread_basket": {
+    "criteria": {
+      "has_tray": "2025-10-06 21:54:31 +0000"
     },
     "done": true
   },

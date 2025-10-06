@@ -31,6 +31,7 @@
       "minecraft:sparse_jungle": "2025-10-06 20:08:19 +0000",
       "minecraft:river": "2025-10-06 20:16:33 +0000",
       "minecraft:forest": "2025-10-06 20:16:32 +0000",
+      "minecraft:desert": "2025-10-06 21:58:19 +0000",
       "minecraft:ocean": "2025-10-06 20:17:10 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-06 20:04:45 +0000",
       "minecraft:savanna": "2025-10-06 20:56:55 +0000",
@@ -1424,7 +1425,8 @@
       "beef": "2025-10-06 20:13:11 +0000",
       "porkchop": "2025-10-06 20:48:25 +0000",
       "apple": "2025-10-06 20:57:45 +0000",
-      "bread": "2025-10-06 20:18:00 +0000"
+      "bread": "2025-10-06 20:18:00 +0000",
+      "carrot": "2025-10-06 21:58:25 +0000"
     },
     "done": false
   },
@@ -4272,11 +4274,142 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-10-06 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-10-06 21:57:26 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-10-06 21:56:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_chocolate": {
+    "criteria": {
+      "has_strawberry": "2025-10-06 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2025-10-06 21:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-06 21:56:10 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-10-06 21:56:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_everything": {
+    "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-10-06 22:00:45 +0000",
+      "bakery:apple_cupcake": "2025-10-06 21:55:30 +0000",
+      "bakery:sweetberry_cupcake": "2025-10-06 21:55:31 +0000",
+      "bakery:linzer_tart": "2025-10-06 21:55:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-06 21:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-06 21:56:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2025-10-06 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-10-06 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2025-10-06 21:57:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2025-10-06 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/strawberry_seeds": {
+    "criteria": {
+      "has_strawberry": "2025-10-06 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-10-06 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_all_baked_goods": {
+    "criteria": {
+      "bakery:linzer_tart": "2025-10-06 21:55:52 +0000"
+    },
+    "done": false
+  },
+  "bakery:recipes/strawberry_crate": {
+    "criteria": {
+      "has_strawberry": "2025-10-06 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-10-06 21:57:26 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/slashblade_wood": {
     "criteria": {
       "has_wooden_sword": "2025-10-06 21:50:59 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-10-06 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_all_caked_goods": {
+    "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-10-06 22:00:45 +0000",
+      "bakery:sweetberry_cupcake": "2025-10-06 21:55:31 +0000",
+      "bakery:apple_cupcake": "2025-10-06 21:55:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
