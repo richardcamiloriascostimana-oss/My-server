@@ -73,8 +73,10 @@
       "minecraft:sparse_jungle": "2025-10-05 20:09:50 +0000",
       "minecraft:lukewarm_ocean": "2025-10-06 21:23:33 +0000",
       "minecraft:river": "2025-10-06 20:15:21 +0000",
+      "minecraft:dripstone_caves": "2025-10-06 23:22:25 +0000",
       "minecraft:forest": "2025-10-06 20:15:10 +0000",
       "minecraft:ocean": "2025-10-06 20:16:05 +0000",
+      "minecraft:jungle": "2025-10-06 23:03:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-06 20:07:55 +0000",
       "minecraft:savanna": "2025-10-06 20:57:47 +0000",
       "minecraft:plains": "2025-10-06 20:08:34 +0000"
@@ -1671,6 +1673,7 @@
     "criteria": {
       "cooked_porkchop": "2025-10-06 22:38:59 +0000",
       "sweet_berries": "2025-10-06 21:37:09 +0000",
+      "cooked_beef": "2025-10-06 22:46:46 +0000",
       "bread": "2025-10-06 20:15:16 +0000",
       "glow_berries": "2025-10-06 21:36:24 +0000",
       "melon_slice": "2025-10-06 21:05:51 +0000",
@@ -3961,6 +3964,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-10-06 22:53:57 +0000",
       "minecraft:zombie_villager": "2025-10-06 21:04:02 +0000"
     },
     "done": false
@@ -4229,9 +4233,21 @@
     },
     "done": true
   },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-10-06 23:08:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-10-06 22:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-10-06 23:16:17 +0000"
     },
     "done": true
   },
@@ -4559,6 +4575,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-10-06 23:08:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-10-06 22:21:14 +0000"
@@ -4643,6 +4665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-10-06 22:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-10-06 22:20:03 +0000"
@@ -4721,6 +4749,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-06 22:58:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-10-06 22:15:54 +0000"
@@ -4751,9 +4785,21 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-10-06 23:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-10-06 22:16:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_hedge": {
+    "criteria": {
+      "has_jungle_leaves": "2025-10-06 23:09:22 +0000"
     },
     "done": true
   },
@@ -4766,6 +4812,18 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-10-06 22:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-10-06 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-10-06 22:51:13 +0000"
     },
     "done": true
   },
@@ -4823,9 +4881,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-10-06 22:58:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-10-06 22:15:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-10-06 23:11:50 +0000"
     },
     "done": true
   },
@@ -4847,6 +4917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-10-06 22:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-10-06 22:19:56 +0000"
@@ -4856,6 +4932,12 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-06 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2025-10-06 23:11:50 +0000"
     },
     "done": true
   },
@@ -4973,6 +5055,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2025-10-06 23:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-10-06 22:16:35 +0000"
@@ -4982,6 +5070,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-10-06 22:21:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-10-06 23:11:50 +0000"
     },
     "done": true
   },
@@ -5012,6 +5106,18 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-10-06 22:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-10-06 23:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-10-06 23:16:17 +0000"
     },
     "done": true
   },
@@ -5075,9 +5181,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-10-06 23:11:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-06 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-10-06 23:12:59 +0000"
     },
     "done": true
   },
@@ -5123,6 +5241,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-10-06 23:12:01 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-10-06 23:16:17 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/altar_cleansing_new": {
     "criteria": {
       "has_book": "2025-10-06 22:21:39 +0000"
@@ -5144,6 +5274,12 @@
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-10-06 22:15:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-10-06 23:11:50 +0000"
     },
     "done": true
   },
@@ -5189,6 +5325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-10-06 23:08:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-06 22:30:44 +0000"
@@ -5210,6 +5352,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-10-06 22:15:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-10-06 22:58:11 +0000"
     },
     "done": true
   },
@@ -5249,9 +5397,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-10-06 23:11:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-10-06 22:35:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-10-06 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-10-06 23:11:50 +0000"
     },
     "done": true
   },
@@ -5273,6 +5439,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-10-06 22:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-10-06 22:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-10-06 22:19:52 +0000"
@@ -5285,9 +5463,21 @@
     },
     "done": true
   },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2025-10-06 23:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-10-06 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-10-06 23:16:17 +0000"
     },
     "done": true
   },
@@ -5308,6 +5498,12 @@
       "has_spruce_drawer": "2025-10-06 22:28:45 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-10-06 23:08:03 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
@@ -5387,6 +5583,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:obtain_pepper_seeds": {
+    "criteria": {
+      "obtain_pepper_seeds_0": "2025-10-06 23:09:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-06 22:30:44 +0000"
@@ -5408,6 +5610,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_planks": "2025-10-06 22:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-10-06 23:11:50 +0000"
     },
     "done": true
   },
@@ -5450,6 +5658,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-10-06 22:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-10-06 23:16:17 +0000"
     },
     "done": true
   },
@@ -5516,6 +5730,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-10-06 22:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-10-06 22:58:23 +0000"
     },
     "done": true
   },
