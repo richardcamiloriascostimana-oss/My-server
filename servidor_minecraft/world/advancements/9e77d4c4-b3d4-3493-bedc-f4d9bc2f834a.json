@@ -4634,6 +4634,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-10-06 22:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-10-06 22:26:08 +0000"
@@ -4676,6 +4682,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-10-06 22:43:33 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-10-06 22:19:53 +0000"
@@ -4685,6 +4697,12 @@
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_the_recipe": "2025-10-06 22:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-10-06 22:34:19 +0000"
     },
     "done": true
   },
@@ -4769,6 +4787,12 @@
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_the_recipe": "2025-10-06 22:26:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-10-06 22:43:21 +0000"
     },
     "done": true
   },
