@@ -4468,6 +4468,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:obtain_blessing": {
+    "criteria": {
+      "obtain_blessing_0": "2025-10-06 23:27:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
     "criteria": {
       "has_dark_oak_planks": "2025-10-06 23:14:49 +0000"
@@ -4564,9 +4570,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-06 23:33:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-10-06 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:sacrifice_items": {
+    "criteria": {
+      "sacrifice_items_0": "2025-10-06 23:26:34 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:jungle_grape_seeds_white": "2025-10-06 23:39:44 +0000"
+    },
+    "done": false
+  },
+  "slashblade:tips/bladestand": {
+    "criteria": {
+      "getitem1": "2025-10-06 23:43:49 +0000"
     },
     "done": true
   },
@@ -4594,6 +4624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-06 23:33:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-10-06 23:14:49 +0000"
@@ -4603,6 +4639,30 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "white_jungle_grape_seeds": "2025-10-06 23:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-06 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_pillar": {
+    "criteria": {
+      "has_stones": "2025-10-06 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-06 23:33:04 +0000"
     },
     "done": true
   },
@@ -4654,6 +4714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-06 23:33:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_dark_oak_planks": "2025-10-06 23:14:49 +0000"
@@ -4687,6 +4753,12 @@
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-06 23:33:04 +0000"
     },
     "done": true
   },

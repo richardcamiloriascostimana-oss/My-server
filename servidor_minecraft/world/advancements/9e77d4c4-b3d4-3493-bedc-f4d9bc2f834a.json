@@ -4575,6 +4575,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:obtain_blessing": {
+    "criteria": {
+      "obtain_blessing_0": "2025-10-06 23:28:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-10-06 22:48:08 +0000"
@@ -4776,6 +4782,12 @@
   "graveyard:graveyard/middle_bone_staff": {
     "criteria": {
       "middle_bone_staff": "2025-10-06 22:32:46 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:sacrifice_items": {
+    "criteria": {
+      "sacrifice_items_0": "2025-10-06 23:26:48 +0000"
     },
     "done": true
   },
