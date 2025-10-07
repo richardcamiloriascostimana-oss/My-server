@@ -561,6 +561,7 @@
       "bread": "2025-10-06 20:15:48 +0000",
       "golden_apple": "2025-10-07 00:45:58 +0000",
       "golden_carrot": "2025-10-06 21:47:39 +0000",
+      "cod": "2025-10-07 00:56:22 +0000",
       "carrot": "2025-10-06 20:16:37 +0000"
     },
     "done": false
@@ -5097,6 +5098,12 @@
   "scguns:main/craft_large_casing_mold": {
     "criteria": {
       "large_casing_mold": "2025-10-06 22:56:09 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-10-07 01:02:50 +0000"
     },
     "done": true
   },
