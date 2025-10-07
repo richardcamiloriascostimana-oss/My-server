@@ -25569,3 +25569,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Oct2025 04:24:43.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CharizarDark888 left the game
 [07Oct2025 04:27:15.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Oct2025 04:27:15.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Oct2025 04:32:15.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Oct2025 04:32:15.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Oct2025 04:37:14.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Oct2025 04:37:14.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
