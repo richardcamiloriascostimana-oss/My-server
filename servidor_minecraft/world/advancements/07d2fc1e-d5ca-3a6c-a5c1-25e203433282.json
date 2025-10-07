@@ -559,6 +559,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-10-06 20:15:48 +0000",
+      "golden_apple": "2025-10-07 00:45:58 +0000",
       "golden_carrot": "2025-10-06 21:47:39 +0000",
       "carrot": "2025-10-06 20:16:37 +0000"
     },
@@ -4432,6 +4433,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-07 00:11:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/totem_top": {
     "criteria": {
       "has_obsidian": "2025-10-06 23:16:21 +0000"
@@ -4450,9 +4457,51 @@
     },
     "done": true
   },
+  "intensehorror:friday_the_13th": {
+    "criteria": {
+      "friday_the_13th": "2025-10-07 00:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-10-07 00:34:53 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:kill_the_moon": {
+    "criteria": {
+      "kill_the_moon": "2025-10-07 00:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-10-07 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_harbinger_of_catastrophe": {
+    "criteria": {
+      "the_harbinger_of_catastrophe": "2025-10-07 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-07 00:11:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-10-07 00:15:42 +0000"
     },
     "done": true
   },
@@ -4468,6 +4517,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-10-07 00:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-10-07 00:11:00 +0000"
+    },
+    "done": true
+  },
   "call_of_yucutan:obtain_blessing": {
     "criteria": {
       "obtain_blessing_0": "2025-10-06 23:27:18 +0000"
@@ -4477,6 +4538,18 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
     "criteria": {
       "has_dark_oak_planks": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-10-07 00:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-07 00:34:55 +0000"
     },
     "done": true
   },
@@ -4498,9 +4571,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-10-07 00:34:55 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sulfur_chunk": {
+    "criteria": {
+      "sulfur_chunk": "2025-10-07 00:14:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:ghostbusters": {
+    "criteria": {
+      "ghostbusters": "2025-10-07 00:19:44 +0000"
     },
     "done": true
   },
@@ -4513,6 +4604,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-10-07 00:34:55 +0000"
     },
     "done": true
   },
@@ -4534,15 +4631,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-10-07 00:51:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
     "criteria": {
       "has_dark_oak_planks": "2025-10-06 23:14:49 +0000"
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-10-07 00:34:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "man:thetear": {
+    "criteria": {
+      "thetear_0": "2025-10-07 00:03:50 +0000"
     },
     "done": true
   },
@@ -4564,9 +4679,21 @@
     },
     "done": true
   },
+  "intensehorror:chainsaw_massacre": {
+    "criteria": {
+      "chainsaw_massacre": "2025-10-07 00:24:04 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:main/consume_disgusting_food": {
     "criteria": {
       "disgusting_food": "2025-10-06 23:47:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-10-07 00:34:53 +0000"
     },
     "done": true
   },
@@ -4588,6 +4715,18 @@
     },
     "done": true
   },
+  "scguns:main/iron/defender_pistol": {
+    "criteria": {
+      "defender_pistol": "2025-10-07 00:16:02 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-10-07 00:34:45 +0000"
+    },
+    "done": true
+  },
   "call_of_yucutan:sacrifice_items": {
     "criteria": {
       "sacrifice_items_0": "2025-10-06 23:26:34 +0000"
@@ -4596,9 +4735,16 @@
   },
   "vinery:main/crop_collector": {
     "criteria": {
-      "vinery:jungle_grape_seeds_white": "2025-10-06 23:39:44 +0000"
+      "vinery:jungle_grape_seeds_white": "2025-10-06 23:39:44 +0000",
+      "vinery:savanna_grape_seeds_red": "2025-10-07 00:02:04 +0000"
     },
     "done": false
+  },
+  "intensehorror:one_two_freddys_coming_for_you": {
+    "criteria": {
+      "one_two_freddys_coming_for_you": "2025-10-07 00:23:39 +0000"
+    },
+    "done": true
   },
   "slashblade:tips/bladestand": {
     "criteria": {
@@ -4609,6 +4755,24 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-10-07 00:01:23 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-10-07 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-10-07 00:01:16 +0000"
     },
     "done": true
   },
@@ -4624,9 +4788,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-07 00:53:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-10-07 00:41:18 +0000"
     },
     "done": true
   },
@@ -4642,6 +4818,12 @@
     },
     "done": true
   },
+  "intensehorror:thriller": {
+    "criteria": {
+      "thriller": "2025-10-07 00:16:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-10-06 23:14:49 +0000"
@@ -4651,6 +4833,12 @@
   "vinery:main/wild_crops": {
     "criteria": {
       "white_jungle_grape_seeds": "2025-10-06 23:39:44 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/spruce_wine_shelf": {
+    "criteria": {
+      "has_spruce_slab": "2025-10-07 00:41:18 +0000"
     },
     "done": true
   },
@@ -4672,15 +4860,63 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-10-07 00:34:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-10-07 00:34:53 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
       "has_obsidian": "2025-10-06 23:16:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-10-07 00:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-10-07 00:07:49 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-10-07 00:15:42 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-10-07 00:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-10-07 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-10-07 00:34:53 +0000"
     },
     "done": true
   },
@@ -4693,6 +4929,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/giant_mushroom": {
+    "criteria": {
+      "giant_mushroom": "2025-10-07 00:08:49 +0000"
     },
     "done": true
   },
@@ -4714,15 +4956,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-07 00:34:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-10-06 23:14:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-10-06 23:57:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-10-06 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-10-07 00:24:42 +0000"
     },
     "done": true
   },
@@ -4756,9 +5016,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-10-07 00:15:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-10-07 00:34:55 +0000"
     },
     "done": true
   },
@@ -4774,9 +5046,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-10-07 00:15:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-10-07 00:15:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-10-07 00:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-10-07 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-10-07 00:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-10-07 00:24:42 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-10-07 00:01:16 +0000"
     },
     "done": true
   },
@@ -4792,15 +5106,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-07 00:34:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-10-07 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-10-07 00:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-10-07 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-10-07 00:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-10-06 23:16:21 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-10-07 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-10-07 00:24:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-10-06 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/treated_brass_blueprint": {
+    "criteria": {
+      "treated_brass_blueprint": "2025-10-07 00:14:49 +0000"
     },
     "done": true
   },
